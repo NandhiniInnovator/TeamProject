@@ -23,6 +23,10 @@ public class ArmstrongNumber {
 		else
 		{
 			System.out.println(" not armstrong number");
+			System.out.println(" not armstrong number");
+			System.out.println(" not armstrong number");
+			System.out.println(" not armstrong number");
+			System.out.println(" not armstrong number");
 		}
 		
 		
